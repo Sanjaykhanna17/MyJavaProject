@@ -1,3 +1,3 @@
 # My Java Project
-Sanjay Khanna S
-Basic Programs
+\n Sanjay Khanna S
+\n Basic Programs
